@@ -1,0 +1,16 @@
+init: Erzeugt ein leeres git repository oder überschreibt ein bestehends
+config: damit kann man Konfigurationswerte verändern
+clone: duplizieren einenes repository in ein anderes Verzeichnis
+add: Hinzufügen von Datein ins git repository
+rm: Löschen von Datein
+commit: nimmt Änderung im repository auf
+remote: welche externen Server in einen Projekt lokal konfiguriert sind
+push: updated
+status: zeigt momentanen Stand
+diff: zeigt Änderungen zwischen commits und working tree
+reset: setzt aktuellen Status auf angegeben Status zurück
+log: zeigt alle commiteten logs
+branch: erstellt, löscht und zeigt alle branches
+checkout: switcht zwischen branches 
+merge: verbindet mehrere Entwicklungsverläufte miteinander
+
